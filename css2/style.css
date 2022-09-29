@@ -1,0 +1,24 @@
+body{
+	background-color: Cyan
+}
+ul{
+	color: blak
+}
+th{
+	color:  red
+}
+h3{
+	color: blue
+}
+td{
+	color: blak
+}
+ol{
+	color: blak
+}
+hr{
+
+    border-style: dotted;
+	border-color: blak;
+	border-width: 3px;
+}
